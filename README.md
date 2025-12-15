@@ -66,13 +66,9 @@ WAVE FORM:
 
 
 TABULAR COLUMN
-
-| *Input Voltage* |            | *Output Voltage*                                         |
-|------------------|------------|--------------------|------------|--------------|--------------|
-| *Vm (V)*       | *t (ms)* | *Without Filter* |            *With Filter*             |
-|                  |            | *Vm (V)*         | *t (ms)* | *Vm (V)*   | *t (ms)*   |
-| 50               | 20         | 50                 | 5          | 50, 46       | 5 ms, 14 ms  |
-
+| *Input Vm (V)* | *Input t (ms)* | *Output Vm (V)* | *Output t (ms)* | *Filtered Vm (V)* | *Filtered t (ms)* |
+|------------------|------------------|-------------------|-------------------|---------------------|---------------------|
+| 50               | 20               | 50                | 5                 | 50, 46              | 5 ms, 14 ms         |
 
 Rectifier without filter
 TABULAR COLUMN
