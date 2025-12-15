@@ -43,12 +43,7 @@ Half wave rectifier with filter:
 WAVE FORM:
 ![WhatsApp Image 2025-12-15 at 3 20 09 PM](https://github.com/user-attachments/assets/4a25acdb-6669-4624-900b-e4520e46f57b)
 
-| *Input Voltage* |              | *Output Voltage* |              |              |
-|------------------|--------------|--------------------|--------------|--------------|
-| Vm (V)           | t (ms)       | *Without Filter* |              | *With Filter* |
-|                  |              | Vm (V)             | t (ms)       | Vm (V) / t (ms) |
-| 100              | 20           | 100                | 10           | 100 V / 5 ms |
-|                  |              |                    |              | 5 V / 25 ms  |
+
 
 
 
@@ -72,12 +67,11 @@ WAVE FORM:
 
 TABULAR COLUMN
 
-
-| *Input Voltage* |              | *Output Voltage* |              |              |
-|------------------|--------------|--------------------|--------------|--------------|
-| Vm (V)           | t (ms)       | *Without Filter* |              | *With Filter* |
-|                  |              | Vm (V)             | t (ms)       | Vm (V) / t (ms) |
-| 50               | 20           | 50                | 50,46           | 5 ms / 14 |
+| *Input Voltage* |            | *Output Voltage* |            |              |              |
+|------------------|------------|--------------------|------------|--------------|--------------|
+| *Vm (V)*       | *t (ms)* | *Without Filter* |            | *With Filter* |            |
+|                  |            | *Vm (V)*         | *t (ms)* | *Vm (V)*   | *t (ms)*   |
+| 50               | 20         | 50                 | 5          | 50, 46       | 5 ms, 14 ms  |
 
 
 Rectifier without filter
