@@ -58,7 +58,7 @@ TABULAR COLUMN
     <th>Vm (V)</th>
     <th>t (ms)</th>
     <th>Vm (V)</th>
-[3:52 pm, 15/12/2025] Harshini: <th>t (ms)</th>
+ <th>t (ms)</th>
     <th>Vm (V)</th>
     <th>t (ms)</th>
   </tr>
