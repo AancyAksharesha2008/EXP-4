@@ -66,13 +66,57 @@ WAVE FORM:
 
 
 TABULAR COLUMN
-| *Input Vm (V)* | *Input t (ms)* | *Output Vm (V)* | *Output t (ms)* | *Filtered Vm (V)* | *Filtered t (ms)* |
-|------------------|------------------|-------------------|-------------------|---------------------|---------------------|
-| 50               | 20               | 50                | 5                 | 50, 46              | 5 ms, 14 ms         |
+!DOCTYPE html>
+<html>
+<head>
+    <title>Input and Output Voltage Table</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 70%;
+            text-align: center;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
 
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+<table>
+    <tr>
+        <th colspan="2">Input Voltage</th>
+        <th colspan="4">Output Voltage</th>
+    </tr>
+    <tr>
+        <th colspan="2"></th>
+        <th colspan="2">Without Filter</th>
+        <th colspan="2">With Filter</th>
+    </tr>
+    <tr>
+        <th>Vm (V)</th>
+        <th>t (ms)</th>
+        <th>Vm (V)</th>
+        <th>t (ms)</th>
+        <th>Vm (V)</th>
+        <th>t (ms)</th>
+    </tr>
+    <tr>
+        <td>50</td>
+        <td>20</td>
+        <td>50</td>
+        <td>5</td>
+        <td>50, 46</td>
+        <td>5 ms, 14 ms</td>
+    </tr>
+</table>
+
+</body>
+</html>
 
 
 RESULT:
