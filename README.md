@@ -43,11 +43,62 @@ Half wave rectifier with filter:
 WAVE FORM:
 ![WhatsApp Image 2025-12-15 at 3 20 09 PM](https://github.com/user-attachments/assets/4a25acdb-6669-4624-900b-e4520e46f57b)
 
-
-
-
-
 TABULAR COLUMN
+
+[3:52 pm, 15/12/2025] Harshini: <table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th rowspan="2" colspan="2">Input Voltage</th>
+    <th colspan="4">Output Voltage</th>
+  </tr>
+  <tr>
+    <th colspan="2">Without Filter</th>
+    <th colspan="2">With Filter</th>
+  </tr>
+  <tr>
+    <th>Vm (V)</th>
+    <th>t (ms)</th>
+    <th>Vm (V)</th>
+[3:52 pm, 15/12/2025] Harshini: <th>t (ms)</th>
+    <th>Vm (V)</th>
+    <th>t (ms)</th>
+  </tr>
+  <tr>
+    <td>100</td>
+    <td>20</td>
+    <td>100</td>
+    <td>10</td>
+    <td>100V, 5V</td>
+    <td>5 ms, 25 ms</td>
+  </tr>
+</table>
+[3:52 pm, 15/12/2025] Harshini: <table border="1" cellspacing="0" cellpadding="6">
+  <tr>
+    <th rowspan="2" colspan="2">Input Voltage</th>
+    <th colspan="4">Output Voltage</th>
+  </tr>
+  <tr>
+    <th colspan="2">Without Filter</th>
+    <th colspan="2">With Filter</th>
+  </tr>
+  <tr>
+    <th>Vm (V)</th>
+    <th>t (ms)</th>
+    <th>Vm (V)</th>
+[3:52 pm, 15/12/2025] Harshini: <th>t (ms)</th>
+    <th>Vm (V)</th>
+    <th>t (ms)</th>
+  </tr>
+  <tr>
+    <td>50</td>
+    <td>20</td>
+    <td>50</td>
+    <td>5</td>
+    <td>50, 46</td>
+    <td>5 ms, 14 ms</td>
+  </tr>
+</table>
+
+
 Bridge rectifier with filter:
 
 ![WhatsApp Image 2025-12-15 at 3 20 08 PM (1)](https://github.com/user-attachments/assets/f856e033-2366-486f-861c-02cb05b4e89b)
@@ -55,15 +106,7 @@ Bridge rectifier with filter:
 
 WAVE FORM:
 
-
-
-
 <img width="651" height="338" alt="image" src="https://github.com/user-attachments/assets/2ddf5611-ed9d-4e63-a759-487c1bd9bf81" />
-
-
-
-
-
 
 TABULAR COLUMN
 !DOCTYPE html>
