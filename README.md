@@ -45,7 +45,7 @@ WAVE FORM:
 
 TABULAR COLUMN
 
-[3:52 pm, 15/12/2025] Harshini: <table border="1" cellspacing="0" cellpadding="6">
+<table border="1" cellspacing="0" cellpadding="6">
   <tr>
     <th rowspan="2" colspan="2">Input Voltage</th>
     <th colspan="4">Output Voltage</th>
@@ -71,7 +71,7 @@ TABULAR COLUMN
     <td>5 ms, 25 ms</td>
   </tr>
 </table>
-[3:52 pm, 15/12/2025] Harshini: <table border="1" cellspacing="0" cellpadding="6">
+ <table border="1" cellspacing="0" cellpadding="6">
   <tr>
     <th rowspan="2" colspan="2">Input Voltage</th>
     <th colspan="4">Output Voltage</th>
@@ -84,7 +84,7 @@ TABULAR COLUMN
     <th>Vm (V)</th>
     <th>t (ms)</th>
     <th>Vm (V)</th>
-[3:52 pm, 15/12/2025] Harshini: <th>t (ms)</th>
+ <th>t (ms)</th>
     <th>Vm (V)</th>
     <th>t (ms)</th>
   </tr>
@@ -109,6 +109,7 @@ WAVE FORM:
 <img width="651" height="338" alt="image" src="https://github.com/user-attachments/assets/2ddf5611-ed9d-4e63-a759-487c1bd9bf81" />
 
 TABULAR COLUMN
+
 !DOCTYPE html>
 <html>
 <head>
