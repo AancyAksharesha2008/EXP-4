@@ -84,26 +84,6 @@ WAVE FORM:
 
 TABULAR COLUMN
 
-!DOCTYPE html>
-<html>
-<head>
-    <title>Input and Output Voltage Table</title>
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 70%;
-            text-align: center;
-        }
-        th, td {
-            border: 1px solid black;
-            padding: 8px;
-        }
-        th {
-            background-color: #f2f2f2;
-        }
-    </style>
-</head>
-<body>
 
 <table>
     <tr>
