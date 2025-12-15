@@ -51,9 +51,27 @@ Bridge rectifier with filter:
 
 WAVE FORM:
 
+
+
+
 <img width="651" height="338" alt="image" src="https://github.com/user-attachments/assets/2ddf5611-ed9d-4e63-a759-487c1bd9bf81" />
 
+
+
+
+
+
 TABULAR COLUMN
+
+
+| *Input Voltage* |              | *Output Voltage* |              |              |
+|------------------|--------------|--------------------|--------------|--------------|
+| Vm (V)           | t (ms)       | *Without Filter* |              | *With Filter* |
+|                  |              | Vm (V)             | t (ms)       | Vm (V) / t (ms) |
+| 100              | 20           | 100                | 10           | 100 V / 5 ms |
+|                  |              |                    |              | 5 V / 25 ms  |
+
+
 Rectifier without filter
 TABULAR COLUMN
 Rectifier with filter
